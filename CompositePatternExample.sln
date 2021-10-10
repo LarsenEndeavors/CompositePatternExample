@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatternExample", "CompositePatternExample.csproj", "{4314B6BC-CEF4-47D8-8689-7D82EB339CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4314B6BC-CEF4-47D8-8689-7D82EB339CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4314B6BC-CEF4-47D8-8689-7D82EB339CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4314B6BC-CEF4-47D8-8689-7D82EB339CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4314B6BC-CEF4-47D8-8689-7D82EB339CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
